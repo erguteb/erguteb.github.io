@@ -54,7 +54,7 @@ Experience
   * Supervisor: Professor James Cheng -->
 
 
-Awards
+Honors
 ======
 - Research Achievement Award in Sem 2 AY2020/2021, Sem 2 AY2021/2022 by NUS School of Computing.
 
