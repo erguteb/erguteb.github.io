@@ -19,14 +19,12 @@ Publications
 - Jianxin Wei, **Ergute Bao**, Xiaokui Xiao, Yin Yang.\
 *DPIS: an Enhanced Mechanism for Differentially Private SGD with Importance Sampling.*\
 The 29th ACM Conference on Computer and Communications Security (CCS), 2022, to appear.
-<!-- [Technical report](https://paulgute.github.io//files/p2482-ergute.pdf) -->
 
 
 - **Ergute Bao**, Yizheng Zhu, Xiaokui Xiao, Yin Yang, Beng Chin Ooi, Benjamin Hong Meng Tan, Khin Mi Mi Aung.\
 *Skellam Mixture Mechanism: a Novel Approach to Federated Learning with Differential Privacy.*\
 48th International Conference on Very Large Data Bases (VLDB), 2022, to appear.
 [Technical report](https://erguteb.github.io//files/p2482-ergute.pdf)
-<!-- <a href="https://journalprivacyconfidentiality.org/index.php/jpc/article/download/776/723">link</a> -->
 
 - **Ergute Bao**, Xiaokui Xiao, Jun Zhao, Dongping Zhang and Bolin Ding.\
 [*Synthetic Data Generation with Differential Privacy via Bayesian Networks.*](https://journalprivacyconfidentiality.org/index.php/jpc/article/download/776/723)\
@@ -36,8 +34,7 @@ Journal of Privacy and Confidentiality (JPC), 2021, Vol. 11 No. 3.
 [*CGM: An Enhanced Mechanism for Streaming Data Collection with Local Differential Privacy.*](http://vldb.org/pvldb/vol14/p2258-bao.pdf)\
 47th International Conference on Very Large Data Bases (VLDB), 2021.
 [Technical report](https://erguteb.github.io//files/p2258-bao-technical.pdf)
-<!-- <a href="http://vldb.org/pvldb/vol14/p2258-bao.pdf">link</a> -->
-<!-- (Acceptance rate: 23%) -->
+
 
 
 
@@ -48,14 +45,9 @@ Experience
   <!-- * Implementing dimensionality reduction algorithms under distributed systems. -->
   * Supervisor: Professor James Cheng
 
-<!-- * Summer 2016: Student Intern
-  * The Chinese University of Hong Kong
-  * Implementing dimensionality reduction algorithms under distributed systems.
-  * Supervisor: Professor James Cheng -->
-
 Services
 ======
-- Reviewer for ICML 2022
+- Reviewer for ICML 2022, TKDE 2022.
 
 Honors
 ======
@@ -71,10 +63,4 @@ Media: [NUS SoC](https://www.comp.nus.edu.sg/news/archives/y2019/2019-nist-diffe
 
 - Dean's List in 2015/16, 16/17, 17/18 by CUHK
 
-- Cheng Foundation Scholarships, Engineering Faculty Alumni Association Scholarships, ELITE Scholarships, George Lam Tse Cheung Scholarships by CUHK
-
-<!-- - ELITE Scholarships by CUHK.
-
-- Engineering Faculty Alumni Association Scholarships by CUHK.
-
-- George Lam Tse Cheung Scholarships, awarded by Lee Woo Sing College, CUHK. -->
+- Cheng Foundation Scholarships, Engineering Faculty Alumni Association Scholarships, ELITE Scholarships, and George Lam Tse Cheung Scholarships by CUHK
