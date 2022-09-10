@@ -22,7 +22,7 @@ The 29th ACM Conference on Computer and Communications Security (CCS), 2022, to 
 
 
 - **Ergute Bao**, Yizheng Zhu, Xiaokui Xiao, Yin Yang, Beng Chin Ooi, Benjamin Hong Meng Tan, Khin Mi Mi Aung.\
-[]*Skellam Mixture Mechanism: a Novel Approach to Federated Learning with Differential Privacy.*](https://www.vldb.org/pvldb/vol15/p2348-bao.pdf)\
+[*Skellam Mixture Mechanism: a Novel Approach to Federated Learning with Differential Privacy.*](https://www.vldb.org/pvldb/vol15/p2348-bao.pdf)\
 48th International Conference on Very Large Data Bases (VLDB), 2022
 [Technical report](https://erguteb.github.io//files/p2482-ergute.pdf)
 [Slides](https://erguteb.github.io//files/Research_p2482.pdf)
