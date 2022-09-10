@@ -25,6 +25,7 @@ The 29th ACM Conference on Computer and Communications Security (CCS), 2022, to 
 *Skellam Mixture Mechanism: a Novel Approach to Federated Learning with Differential Privacy.*\
 48th International Conference on Very Large Data Bases (VLDB), 2022, to appear.
 [Technical report](https://erguteb.github.io//files/p2482-ergute.pdf)
+[Slides](https://erguteb.github.io//files/Research_p2482.pdf)
 
 - **Ergute Bao**, Xiaokui Xiao, Jun Zhao, Dongping Zhang and Bolin Ding.\
 [*Synthetic Data Generation with Differential Privacy via Bayesian Networks.*](https://journalprivacyconfidentiality.org/index.php/jpc/article/download/776/723)\
