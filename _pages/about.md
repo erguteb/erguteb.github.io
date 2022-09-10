@@ -45,7 +45,7 @@ Experience
   * Federated Learning with Differential Privacy.
   * Supervisor: Dr. Yaliang Li
 * Summer 2017, Summer 2016: Student Intern at CUHK
-  * Hashing algorithms for similarity search and dimensionality reduction under distributed systems.
+  * Hashing under distributed systems.
   * Supervisor: Professor James Cheng
 
 Services
