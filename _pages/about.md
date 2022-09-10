@@ -41,9 +41,11 @@ Journal of Privacy and Confidentiality (JPC), 2021, Vol. 11 No. 3.
 
 Experience
 ======
+* Summer 2022: Research Intern at Alibaba DAMO Academy
+  * Federated Learning with Differential Privacy.
+  * Supervisor: Dr. Yaliang Li
 * Summer 2017, Summer 2016: Student Intern at CUHK
-  * Implementing hashing algorithms for similarity search and dimensionality reduction algorithms under distributed systems.
-  <!-- * Implementing dimensionality reduction algorithms under distributed systems. -->
+  * Hashing algorithms for similarity search and dimensionality reduction under distributed systems.
   * Supervisor: Professor James Cheng
 
 Services
