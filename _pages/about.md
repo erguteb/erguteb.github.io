@@ -17,8 +17,8 @@ Privacy-preserving data analysis
 Publications
 ======
 - Jianxin Wei, **Ergute Bao**, Xiaokui Xiao, Yin Yang.\
-*DPIS: an Enhanced Mechanism for Differentially Private SGD with Importance Sampling.*\
-The 29th ACM Conference on Computer and Communications Security (CCS), 2022, to appear.
+[*DPIS: an Enhanced Mechanism for Differentially Private SGD with Importance Sampling.*](https://arxiv.org/abs/2210.09634)\
+The 29th ACM Conference on Computer and Communications Security (CCS), 2022.
 
 
 - **Ergute Bao**, Yizheng Zhu, Xiaokui Xiao, Yin Yang, Beng Chin Ooi, Benjamin Hong Meng Tan, Khin Mi Mi Aung.\
