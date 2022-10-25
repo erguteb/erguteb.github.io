@@ -56,7 +56,7 @@ Honors
 ======
 - Research Achievement Award in AY2020/2021, AY2021/2022 by NUS School of Computing.
 
-- First place in the [2020 NIST Differential Privacy Temporal Map Challenge](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2020-differential).[News from NUS SoC](https://www.comp.nus.edu.sg/news/2021-nistchallenge/)
+- First place in the [2020 NIST Differential Privacy Temporal Map Challenge](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2020-differential). [News from NUS SoC](https://www.comp.nus.edu.sg/news/2021-nistchallenge/)
 
 - Third place in the [2018 NIST Differential Privacy Synthetic Data Challenge](https://www.nist.gov/ctl/pscr/team-privbayes). [News from NUS SoC](https://www.comp.nus.edu.sg/news/archives/y2019/2019-nist-differential-privacy-synthetic-data-challenge/)
 
