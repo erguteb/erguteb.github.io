@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Bao Ergute (Bob) is a PhD candidate in National University of Singapore (NUS), supervised by Professor Xiaokui Xiao. Bob completed his B.Sc with First Class Honors in Computer Science from the Chinese University of Hong Kong (CUHK) in 2018.
+Bao Ergute (Bob) is a PhD candidate in National University of Singapore (NUS), supervised by Professor [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). Bob completed his B.Sc with First Class Honors in Computer Science from the Chinese University of Hong Kong (CUHK) in 2018.
 
 Research Interest
 ======
@@ -37,31 +37,27 @@ Journal of Privacy and Confidentiality (JPC), 2021, Vol. 11 No. 3.
 [Technical report](https://erguteb.github.io//files/p2258-bao-technical.pdf)
 
 
-
-
-<!-- Experience
+Experience
 ======
 * Summer 2022: Research Intern at Alibaba DAMO Academy
-  * Federated Learning with Differential Privacy.
-  * Supervisor: Dr. Yaliang Li
+  * Research on Federated Learning with Differential Privacy, supervised by Dr. [Yaliang Li](https://sites.google.com/site/yaliangli/).
 * Summer 2017, Summer 2016: Student Intern at CUHK
-  * Hashing under distributed systems.
-  * Supervisor: Professor James Cheng
-
-Services
-======
-- Reviewer for ICML 2022, TKDE 2022. -->
+  * Research on Hashing under distributed systems, supervised by Professor [James Cheng](https://www.cse.cuhk.edu.hk/~jcheng/).
 
 Honors
 ======
-- Research Achievement Award in 2021, 2022 by NUS School of Computing.
-
 - First place in the [2020 NIST Differential Privacy Temporal Map Challenge](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2020-differential). [News from NUS SoC](https://www.comp.nus.edu.sg/news/2021-nistchallenge/)
 
 - Third place in the [2018 NIST Differential Privacy Synthetic Data Challenge](https://www.nist.gov/ctl/pscr/team-privbayes). [News from NUS SoC](https://www.comp.nus.edu.sg/news/archives/y2019/2019-nist-differential-privacy-synthetic-data-challenge/)
 
 - Second place in the [2021 NIST DeID2 - A Better Meter Stick for Differential Privacy](https://www.herox.com/bettermeterstick/updates)
 
+- Research Achievement Award in 2021, 2022 by NUS School of Computing.
+
 - Dean's List in 2015/16, 16/17, 17/18 by CUHK
 
 - Cheng Foundation Scholarships, Engineering Faculty Alumni Association Scholarships, ELITE Scholarships, and George Lam Tse Cheung Scholarships by CUHK
+
+Services
+======
+- Reviewer for ICML 2022, TKDE 2022.
