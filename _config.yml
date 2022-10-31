@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Bao Ergute"
 title_separator          : "-"
-name                     : &name "Bao Ergute"
+name                     : &name "Ergute Bao"
 description              : &description "personal description"
 url                      : https://erguteb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
