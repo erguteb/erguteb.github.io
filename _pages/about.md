@@ -19,6 +19,7 @@ Publications
 - Jianxin Wei, Ergute Bao, Xiaokui Xiao, Yin Yang.\
 [*DPIS: an Enhanced Mechanism for Differentially Private SGD with Importance Sampling.*](https://arxiv.org/abs/2210.09634)\
 The 29th ACM Conference on Computer and Communications Security (CCS), 2022.
+[Slides](https://erguteb.github.io//files/DPIS_CCS.pdf)
 
 
 - Ergute Bao, Yizheng Zhu, Xiaokui Xiao, Yin Yang, Beng Chin Ooi, Benjamin Hong Meng Tan, Khin Mi Mi Aung.\
