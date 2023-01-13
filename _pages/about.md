@@ -16,23 +16,23 @@ Privacy-preserving data analysis
 
 Publications
 ---
-- Jianxin Wei, Ergute Bao, Xiaokui Xiao, Yin Yang.\
+- Jianxin Wei, *Ergute Bao*, Xiaokui Xiao, Yin Yang.\
 [*DPIS: an Enhanced Mechanism for Differentially Private SGD with Importance Sampling.*](https://arxiv.org/abs/2210.09634)\
 The 29th ACM Conference on Computer and Communications Security (CCS), 2022.
 [Slides](https://erguteb.github.io//files/DPIS_CCS.pdf)
 
 
-- Ergute Bao, Yizheng Zhu, Xiaokui Xiao, Yin Yang, Beng Chin Ooi, Benjamin Hong Meng Tan, Khin Mi Mi Aung.\
+- *Ergute Bao*, Yizheng Zhu, Xiaokui Xiao, Yin Yang, Beng Chin Ooi, Benjamin Hong Meng Tan, Khin Mi Mi Aung.\
 [*Skellam Mixture Mechanism: a Novel Approach to Federated Learning with Differential Privacy.*](https://www.vldb.org/pvldb/vol15/p2348-bao.pdf)\
 48th International Conference on Very Large Data Bases (VLDB), 2022.
 [Technical report](https://erguteb.github.io//files/p2482-ergute.pdf)
 [Slides](https://erguteb.github.io//files/Research_p2482.pdf)
 
-- Ergute Bao, Xiaokui Xiao, Jun Zhao, Dongping Zhang and Bolin Ding.\
+- *Ergute Bao*, Xiaokui Xiao, Jun Zhao, Dongping Zhang and Bolin Ding.\
 [*Synthetic Data Generation with Differential Privacy via Bayesian Networks.*](https://journalprivacyconfidentiality.org/index.php/jpc/article/download/776/723)\
 Journal of Privacy and Confidentiality (JPC), 2021, Vol. 11 No. 3.
 
-- Ergute Bao, Yin Yang, Xiaokui Xiao, and Bolin Ding.\
+- *Ergute Bao*, Yin Yang, Xiaokui Xiao, and Bolin Ding.\
 [*CGM: An Enhanced Mechanism for Streaming Data Collection with Local Differential Privacy.*](http://vldb.org/pvldb/vol14/p2258-bao.pdf)\
 47th International Conference on Very Large Data Bases (VLDB), 2021.
 [Technical report](https://erguteb.github.io//files/p2258-bao-technical.pdf)
