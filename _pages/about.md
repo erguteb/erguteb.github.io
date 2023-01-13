@@ -11,11 +11,11 @@ redirect_from:
 Bao Ergute (Bob) is a PhD candidate in National University of Singapore (NUS), supervised by Professor [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). Bob completed his B.Sc with First Class Honors in Computer Science from the Chinese University of Hong Kong (CUHK) in 2018. He was a research intern at at Alibaba DAMO Academy, supervised by Dr. [Yaliang Li](https://sites.google.com/site/yaliangli/), and a research intern at CUHK engineering, supervised by Professor [James Cheng](https://www.cse.cuhk.edu.hk/~jcheng/).
 
 Research Interest
-======
+---
 Privacy-preserving data analysis
 
 Publications
-======
+---
 - Jianxin Wei, Ergute Bao, Xiaokui Xiao, Yin Yang.\
 [*DPIS: an Enhanced Mechanism for Differentially Private SGD with Importance Sampling.*](https://arxiv.org/abs/2210.09634)\
 The 29th ACM Conference on Computer and Communications Security (CCS), 2022.
@@ -40,7 +40,7 @@ Journal of Privacy and Confidentiality (JPC), 2021, Vol. 11 No. 3.
 
 
 Honors
-======
+---
 - First place in the [2020 NIST Differential Privacy Temporal Map Challenge](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2020-differential). [News from NUS SoC](https://www.comp.nus.edu.sg/news/2021-nistchallenge/)
 
 - Third place in the [2018 NIST Differential Privacy Synthetic Data Challenge](https://www.nist.gov/ctl/pscr/team-privbayes). [News from NUS SoC](https://www.comp.nus.edu.sg/news/archives/y2019/2019-nist-differential-privacy-synthetic-data-challenge/)
@@ -54,5 +54,5 @@ Honors
 - Cheng Foundation Scholarships, Engineering Faculty Alumni Association Scholarships, ELITE Scholarships, and George Lam Tse Cheung Scholarships by CUHK -->
 
 Services
-======
+---
 - Reviewer for ICML 2022, TKDE 2022, DASFAA 2023.
