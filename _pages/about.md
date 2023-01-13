@@ -22,13 +22,13 @@ The 29th ACM Conference on Computer and Communications Security (CCS), 2022.
 [Slides](https://erguteb.github.io//files/DPIS_CCS.pdf)
 
 
-- *Ergute Bao*, Yizheng Zhu, Xiaokui Xiao, Yin Yang, Beng Chin Ooi, Benjamin Hong Meng Tan, Khin Mi Mi Aung.\
+- *Ergute Bao*, Yizheng Zhu, Xiaokui Xiao, Yin Yang, Beng Chin Ooi, Benjamin Tan, Khin Aung.\
 [*Skellam Mixture Mechanism: a Novel Approach to Federated Learning with Differential Privacy.*](https://www.vldb.org/pvldb/vol15/p2348-bao.pdf)\
 48th International Conference on Very Large Data Bases (VLDB), 2022.
 [Technical report](https://erguteb.github.io//files/p2482-ergute.pdf)
 [Slides](https://erguteb.github.io//files/Research_p2482.pdf)
 
-- *Ergute Bao*, Xiaokui Xiao, Jun Zhao, Dongping Zhang and Bolin Ding.\
+- *Ergute Bao*, Xiaokui Xiao, Jun Zhao, Dongping Zhang, Bolin Ding.\
 [*Synthetic Data Generation with Differential Privacy via Bayesian Networks.*](https://journalprivacyconfidentiality.org/index.php/jpc/article/download/776/723)\
 Journal of Privacy and Confidentiality (JPC), 2021, Vol. 11 No. 3.
 
