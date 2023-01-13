@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Bao Ergute (Bob) is a PhD candidate in National University of Singapore (NUS), supervised by Professor [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). Bob completed his B.Sc with First Class Honors in Computer Science from the Chinese University of Hong Kong (CUHK) in 2018.
+Bao Ergute (Bob) is a PhD candidate in National University of Singapore (NUS), supervised by Professor [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). Bob completed his B.Sc with First Class Honors in Computer Science from the Chinese University of Hong Kong (CUHK) in 2018. He was a research intern at at Alibaba DAMO Academy, supervised by Dr. [Yaliang Li](https://sites.google.com/site/yaliangli/), and a research intern at CUHK engineering, supervised by Professor [James Cheng](https://www.cse.cuhk.edu.hk/~jcheng/).
 
 Research Interest
 ======
@@ -38,12 +38,6 @@ Journal of Privacy and Confidentiality (JPC), 2021, Vol. 11 No. 3.
 [Technical report](https://erguteb.github.io//files/p2258-bao-technical.pdf)
 
 
-Experience
-======
-* Summer 2022: Research Intern at Alibaba DAMO Academy
-  * Research on Federated Learning with Differential Privacy, supervised by Dr. [Yaliang Li](https://sites.google.com/site/yaliangli/).
-* Summer 2017, Summer 2016: Student Intern at CUHK
-  * Research on Hashing under distributed systems, supervised by Professor [James Cheng](https://www.cse.cuhk.edu.hk/~jcheng/).
 
 Honors
 ======
@@ -51,14 +45,14 @@ Honors
 
 - Third place in the [2018 NIST Differential Privacy Synthetic Data Challenge](https://www.nist.gov/ctl/pscr/team-privbayes). [News from NUS SoC](https://www.comp.nus.edu.sg/news/archives/y2019/2019-nist-differential-privacy-synthetic-data-challenge/)
 
-- Second place in the [2021 NIST DeID2 - A Better Meter Stick for Differential Privacy](https://www.herox.com/bettermeterstick/updates)
+<!-- - Second place in the [2021 NIST DeID2 - A Better Meter Stick for Differential Privacy](https://www.herox.com/bettermeterstick/updates)
 
 - Research Achievement Award in 2021, 2022 by NUS School of Computing.
 
 - Dean's List in 2015/16, 16/17, 17/18 by CUHK
 
-- Cheng Foundation Scholarships, Engineering Faculty Alumni Association Scholarships, ELITE Scholarships, and George Lam Tse Cheung Scholarships by CUHK
+- Cheng Foundation Scholarships, Engineering Faculty Alumni Association Scholarships, ELITE Scholarships, and George Lam Tse Cheung Scholarships by CUHK -->
 
 Services
 ======
-- Reviewer for ICML 2022, TKDE 2022.
+- Reviewer for ICML 2022, TKDE 2022, DASFAA 2023.
