@@ -41,7 +41,7 @@ Journal of Privacy and Confidentiality (JPC), 2021, Vol. 11 No. 3.
 
 Honors
 ---
-- First place in the [2020 NIST Differential Privacy Temporal Map Challenge](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2020-differential). [News](https://www.comp.nus.edu.sg/news/2021-nistchallenge/)
+- First place in the [2020 NIST Differential Privacy Temporal Map Challenge](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2020-differential). [News](https://www.comp.nus.edu.sg/news/archives/y2021/2021-nistchallenge/)
 
 - Third place in the [2018 NIST Differential Privacy Synthetic Data Challenge](https://www.nist.gov/ctl/pscr/team-privbayes). [News](https://www.comp.nus.edu.sg/news/archives/y2019/2019-nist-differential-privacy-synthetic-data-challenge/)
 
