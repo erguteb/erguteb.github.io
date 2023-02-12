@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Bao Ergute (Bob) is a PhD candidate in National University of Singapore (NUS), supervised by Professor [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). Bob completed his B.Sc with First Class Honors in Computer Science from the Chinese University of Hong Kong (CUHK) in 2018. He was a research intern at at Alibaba DAMO Academy, supervised by Dr. [Yaliang Li](https://sites.google.com/site/yaliangli/), and a research intern at CUHK engineering, supervised by Professor [James Cheng](https://www.cse.cuhk.edu.hk/~jcheng/).
+Bao Ergute (Bob) is a PhD candidate in National University of Singapore (NUS), supervised by Professor [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). Bob completed his B.Sc with First Class Honors in Computer Science from the Chinese University of Hong Kong (CUHK) in 2018.
 
 Research Interest
 ---
