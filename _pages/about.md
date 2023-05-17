@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ergute Bao (Bob) is a PhD candidate in National University of Singapore (NUS), supervised by Professor [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). Bob was a research intern in Alibaba Group, and obtained his B.Sc with First Class Honors in Computer Science from the Chinese University of Hong Kong (CUHK) in 2018.
+Ergute Bao (Bob) is a PhD candidate in National University of Singapore (NUS), supervised by Professor [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). Bob was a research intern at Alibaba DAMO Academy, and obtained his B.Sc with First Class Honors in Computer Science from the Chinese University of Hong Kong (CUHK) in 2018.
 
 Research Interest
 ---
