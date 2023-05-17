@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Bao Ergute (Bob) is a PhD candidate in National University of Singapore (NUS), supervised by Professor [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). Bob completed his B.Sc with First Class Honors in Computer Science from the Chinese University of Hong Kong (CUHK) in 2018.
+Ergute Bao (Bob) is a PhD candidate in National University of Singapore (NUS), supervised by Professor [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). Bob was a research intern in Alibaba Group, and obtained his B.Sc with First Class Honors in Computer Science from the Chinese University of Hong Kong (CUHK) in 2018.
 
 Research Interest
 ---
@@ -46,9 +46,9 @@ Journal of Privacy and Confidentiality (JPC), 2021, Vol. 11 No. 3.
 
 Honors
 ---
-- First place in the [2020 NIST Differential Privacy Temporal Map Challenge](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2020-differential). [News](https://www.comp.nus.edu.sg/news/archives/y2021/2021-nistchallenge/)
+- First place in the [2020 NIST Differential Privacy Temporal Map Challenge](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2020-differential). [News.](https://www.comp.nus.edu.sg/news/archives/y2021/2021-nistchallenge/)
 
-- Third place in the [2018 NIST Differential Privacy Synthetic Data Challenge](https://www.nist.gov/ctl/pscr/team-privbayes). [News](https://www.comp.nus.edu.sg/news/archives/y2019/2019-nist-differential-privacy-synthetic-data-challenge/)
+- Third place in the [2018 NIST Differential Privacy Synthetic Data Challenge](https://www.nist.gov/ctl/pscr/team-privbayes). [News.](https://www.comp.nus.edu.sg/news/archives/y2019/2019-nist-differential-privacy-synthetic-data-challenge/)
 
 <!-- - Second place in the [2021 NIST DeID2 - A Better Meter Stick for Differential Privacy](https://www.herox.com/bettermeterstick/updates)
 
