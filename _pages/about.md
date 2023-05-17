@@ -19,7 +19,7 @@ Publications
 
 - *Ergute Bao*, Dawei Gao, Xiaokui Xiao, Yaliang Li.\
 *Communication Efficient and Differentially Private Logistic Regression under the Distributed Setting.*\
-The 29TH ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
+29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
 
 - Jianxin Wei, *Ergute Bao*, Xiaokui Xiao, Yin Yang.\
 [*DPIS: an Enhanced Mechanism for Differentially Private SGD with Importance Sampling.*](https://arxiv.org/abs/2210.09634)\
