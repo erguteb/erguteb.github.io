@@ -33,15 +33,15 @@ The 29th ACM Conference on Computer and Communications Security (CCS), 2022.
 [Technical report.](https://erguteb.github.io//files/p2482-ergute.pdf)
 [Slides.](https://erguteb.github.io//files/Research_p2482.pdf)
 
-- *Ergute Bao*, Xiaokui Xiao, Jun Zhao, Dongping Zhang, Bolin Ding.\
-[*Synthetic Data Generation with Differential Privacy via Bayesian Networks.*](https://journalprivacyconfidentiality.org/index.php/jpc/article/download/776/723)\
-Journal of Privacy and Confidentiality (JPC), 2021, Vol. 11 No. 3.
-
 - *Ergute Bao*, Yin Yang, Xiaokui Xiao, and Bolin Ding.\
 [*CGM: An Enhanced Mechanism for Streaming Data Collection with Local Differential Privacy.*](http://vldb.org/pvldb/vol14/p2258-bao.pdf)\
 47th International Conference on Very Large Data Bases (VLDB), 2021.
 [Technical report.](https://erguteb.github.io//files/p2258-bao-technical.pdf)
 
+- *Ergute Bao*, Xiaokui Xiao, Jun Zhao, Dongping Zhang, Bolin Ding.\
+[*Synthetic Data Generation with Differential Privacy via Bayesian Networks.*](https://journalprivacyconfidentiality.org/index.php/jpc/article/download/776/723)\
+Journal of Privacy and Confidentiality (JPC), 2021, Vol. 11 No. 3. \
+Based on our solution for the [2018 NIST Differential Privacy Synthetic Data Challenge](https://www.nist.gov/ctl/pscr/team-privbayes).
 
 
 Honors
@@ -49,7 +49,7 @@ Honors
 - First place in the [2020 NIST Differential Privacy Temporal Map Challenge](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2020-differential). [News.](https://www.comp.nus.edu.sg/news/archives/y2021/2021-nistchallenge/)
 
 - Third place in the [2018 NIST Differential Privacy Synthetic Data Challenge](https://www.nist.gov/ctl/pscr/team-privbayes). [News.](https://www.comp.nus.edu.sg/news/archives/y2019/2019-nist-differential-privacy-synthetic-data-challenge/)\
-Invited to special issues in JPC.
+Invited to JPC 2021 on Privacy Challenges.
 
 - Research Achievement Award in 2021, 2022 by NUS School of Computing.
 
@@ -57,7 +57,7 @@ Invited to special issues in JPC.
 
 - Dean's List in 2015/16, 16/17, 17/18 by CUHK
 
-- Cheng Foundation Scholarships, Engineering Faculty Alumni Association Scholarships, ELITE Scholarships, and George Lam Tse Cheung Scholarships by CUHK -->
+- Cheng Foundation Scholarships, Engineering Faculty Alumni Association Scholarships, ELITE Scholarships, and George Lam Tse Cheung Scholarships by CUHK
 
 Services
 ---
