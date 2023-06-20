@@ -18,7 +18,7 @@ Publications
 ---
 
 - *Ergute Bao*, Dawei Gao, Xiaokui Xiao, Yaliang Li.\
-*Communication Efficient and Differentially Private Logistic Regression under the Distributed Setting.*\
+[*Communication Efficient and Differentially Private Logistic Regression under the Distributed Setting.*](https://erguteb.github.io//files/Communication_Efficient_and_Differentially_Private_Logistic_Regression_under_the_Distributed_Setting.pdf)\
 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
 
 - Jianxin Wei, *Ergute Bao*, Xiaokui Xiao, Yin Yang.\
