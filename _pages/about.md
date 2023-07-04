@@ -31,7 +31,8 @@ The 29th ACM Conference on Computer and Communications Security (CCS), 2022.
 [*Skellam Mixture Mechanism: a Novel Approach to Federated Learning with Differential Privacy.*](https://www.vldb.org/pvldb/vol15/p2348-bao.pdf)\
 48th International Conference on Very Large Data Bases (VLDB), 2022.
 [Technical report.](https://erguteb.github.io//files/p2482-ergute.pdf)
-[Slides.](https://erguteb.github.io//files/Research_p2482.pdf)
+[Slides.](https://erguteb.github.io//files/Research_p2482.pdf)\
+[*Preprint of the Skellam Mechanism in Federated Learning.*](https://openreview.net/pdf?id=gWGexz8hFH)
 
 - *Ergute Bao*, Yin Yang, Xiaokui Xiao, and Bolin Ding.\
 [*CGM: An Enhanced Mechanism for Streaming Data Collection with Local Differential Privacy.*](http://vldb.org/pvldb/vol14/p2258-bao.pdf)\
@@ -41,7 +42,7 @@ The 29th ACM Conference on Computer and Communications Security (CCS), 2022.
 - *Ergute Bao*, Xiaokui Xiao, Jun Zhao, Dongping Zhang, Bolin Ding.\
 [*Synthetic Data Generation with Differential Privacy via Bayesian Networks.*](https://journalprivacyconfidentiality.org/index.php/jpc/article/download/776/723)\
 Journal of Privacy and Confidentiality (JPC), 2021, Vol. 11 No. 3. \
-Based on our solution for the [2018 NIST Differential Privacy Synthetic Data Challenge](https://www.nist.gov/ctl/pscr/team-privbayes).
+Invited paper. Based on our solution for the [2018 NIST Differential Privacy Synthetic Data Challenge](https://www.nist.gov/ctl/pscr/team-privbayes).
 
 
 Research Recognitions
