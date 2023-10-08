@@ -64,7 +64,7 @@ Services
 
 Honors
 ---
-- Dean's List in 2015/16, 16/17, 17/18 by CUHK
+- Dean's List in 2015-2018 by CUHK
 
 - Cheng Foundation Scholarships, Engineering Faculty Alumni Association Scholarships, ELITE Scholarships, and George Lam Tse Cheung Scholarships by CUHK
 
