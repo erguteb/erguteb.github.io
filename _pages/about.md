@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Ergute Bao (Bob) is a PhD candidate at National University of Singapore (NUS), advised by Professor [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). He obtained his B.Sc with First Class Honors in Computer Science from the Chinese University of Hong Kong (CUHK) in 2018, and has previously interned at SEA AI Lab and Alibaba DAMO Academy. 
+Ergute Bao (Bob) is a PhD candidate at National University of Singapore (NUS), advised by Professor [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). Bob obtained his B.Sc with First Class Honors in Computer Science from the Chinese University of Hong Kong (CUHK) in 2018, and has previously interned at SEA AI Lab and Alibaba DAMO Academy. 
 
 Research Interest
 ---
-Differential Privacy
+Differential privacy and its applications in federated learning.
 
 Publications
 ---
@@ -33,6 +33,7 @@ The 29th ACM Conference on Computer and Communications Security (CCS), 2022.
 [Technical report.](https://erguteb.github.io//files/p2482-ergute.pdf)
 [Slides.](https://erguteb.github.io//files/Research_p2482.pdf)\
 [*Preprint of the Skellam Mechanism.*](https://openreview.net/pdf?id=gWGexz8hFH)
+[*Google's implementation of the Skellam Mechanism in TF Privacy](https://www.tensorflow.org/responsible_ai/privacy/api_docs/python/tf_privacy/DistributedSkellamSumQuery)
 
 - *Ergute Bao*, Yin Yang, Xiaokui Xiao, and Bolin Ding.\
 [*CGM: An Enhanced Mechanism for Streaming Data Collection with Local Differential Privacy.*](http://vldb.org/pvldb/vol14/p2258-bao.pdf)\
