@@ -33,7 +33,7 @@ The 29th ACM Conference on Computer and Communications Security (CCS), 2022.
 [Technical report.](https://erguteb.github.io//files/p2482-ergute.pdf)
 [Slides.](https://erguteb.github.io//files/Research_p2482.pdf)\
 [*Preprint of the Skellam Mechanism.*](https://openreview.net/pdf?id=gWGexz8hFH)
-[*Google's implementation of the Skellam Mechanism in TF Privacy](https://www.tensorflow.org/responsible_ai/privacy/api_docs/python/tf_privacy/DistributedSkellamSumQuery)
+[*Google's implementation of the Skellam Mechanism in TF_Privacy.*](https://www.tensorflow.org/responsible_ai/privacy/api_docs/python/tf_privacy/DistributedSkellamSumQuery)
 
 - *Ergute Bao*, Yin Yang, Xiaokui Xiao, and Bolin Ding.\
 [*CGM: An Enhanced Mechanism for Streaming Data Collection with Local Differential Privacy.*](http://vldb.org/pvldb/vol14/p2258-bao.pdf)\
