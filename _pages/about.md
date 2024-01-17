@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ergute Bao (Bob) is a PhD candidate at National University of Singapore (NUS), advised by Professor [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). Bob obtained his B.Sc with First Class Honors in Computer Science from the Chinese University of Hong Kong (CUHK) in 2018, and has previously interned at SEA AI Lab and Alibaba DAMO Academy. 
+Ergute Bao (Bob) is a PhD candidate at the National University of Singapore (NUS), advised by Professor [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). Bob obtained his B.Sc with First Class Honors in Computer Science from the Chinese University of Hong Kong (CUHK) in 2018, and has previously interned at SEA AI Lab and Alibaba DAMO Academy. 
 
 Research Interest
 ---
@@ -46,8 +46,15 @@ Journal of Privacy and Confidentiality (JPC), 2021, Vol. 11 No. 3. \
 Invited paper. Based on our solution for the [2018 NIST Differential Privacy Synthetic Data Challenge](https://www.nist.gov/ctl/pscr/team-privbayes).
 
 
-Research Recognitions
+Services
 ---
+- Reviewer for ICML 2022, DASFAA 2023, TKDE.
+
+
+Honors
+---
+- Dean's Graduate Research Excellence Award in 2023, by NUS School of Computing.
+
 - First place in the [2020 NIST Differential Privacy Temporal Map Challenge](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2020-differential). [News.](https://www.comp.nus.edu.sg/news/archives/y2021/2021-nistchallenge/)
 
 - Third place in the [2018 NIST Differential Privacy Synthetic Data Challenge](https://www.nist.gov/ctl/pscr/team-privbayes). [News.](https://www.comp.nus.edu.sg/news/archives/y2019/2019-nist-differential-privacy-synthetic-data-challenge/)\
@@ -57,15 +64,9 @@ Invited to JPC 2021 on Privacy Challenges.
 
 - Second place in the [2021 NIST DeID2 - A Better Meter Stick for Differential Privacy](https://www.herox.com/bettermeterstick/updates)
 
+- Research Scholarship 2018-2022 by NUS.
 
-Services
----
-- Reviewer for ICML 2022, DASFAA 2023, TKDE.
+- Dean's List in 2015-2018 by CUHK.
 
-
-Honors
----
-- Dean's List in 2015-2018 by CUHK
-
-- Cheng Foundation Scholarships, Engineering Faculty Alumni Association Scholarships, ELITE Scholarships, and George Lam Tse Cheung Scholarships by CUHK
+- Cheng Foundation Scholarships, Engineering Faculty Alumni Association Scholarships, ELITE Scholarships, and George Lam Tse Cheung Scholarships by CUHK.
 
