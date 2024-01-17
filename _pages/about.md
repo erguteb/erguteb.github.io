@@ -47,7 +47,7 @@ Invited paper. Based on our solution for the [2018 NIST Differential Privacy Syn
 
 Services
 ---
-- Reviewer for ICML 2022, DASFAA 2023, TKDE.
+Reviewer for ICML 2022, DASFAA 2023, TKDE.
 
 
 Honors
