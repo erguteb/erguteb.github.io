@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ergute Bao (Bob) is a PhD candidate at the National University of Singapore (NUS), advised by Professor [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). Bob obtained his B.Sc with First Class Honors in Computer Science from the Chinese University of Hong Kong (CUHK) in 2018, and has previously interned at SEA AI Lab and Alibaba DAMO Academy. 
+Ergute Bao (Bob) is a PhD candidate at the National University of Singapore (NUS), advised by Professor [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). Bob obtained his B.Sc with First Class Honors in Computer Science from the Chinese University of Hong Kong (CUHK) in 2018, and has previously interned at SEA AI Lab and Alibaba DAMO Academy. Link to my [CV.](https://erguteb.github.io//files/CV_Ergute.pdf)
 
 Research Interest
 ---
