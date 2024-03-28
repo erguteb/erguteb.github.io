@@ -51,7 +51,7 @@ Invited paper. Based on our solution for the [2018 NIST Differential Privacy Syn
 
 Services
 ---
-Reviewer for ICML 2022, DASFAA 2023, TKDE.
+Reviewer for ICML 2022, DASFAA 2023 (demo) 2024 (demo), TKDE.
 
 
 Honors
@@ -68,7 +68,3 @@ Research Achievement Award in 2021, 2022 by NUS School of Computing.
 Second place in the [2021 NIST DeID2 - A Better Meter Stick for Differential Privacy](https://www.herox.com/bettermeterstick/updates)
 
 Research Scholarship 2018-2022 by NUS.
-
-Dean's List in 2015-2018 by CUHK.
-
-Cheng Foundation Scholarships, Engineering Faculty Alumni Association Scholarships, ELITE Scholarships, and George Lam Tse Cheung Scholarships by CUHK.
