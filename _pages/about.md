@@ -18,8 +18,8 @@ Publications
 ---
 
 6. Fei Wei, **Ergute Bao**, Xiaokui Xiao, Yin Yang, and Bolin Ding.\
-*AAA: an Adaptive Mechanism for Locally Differential Private Mean Estimation.*\
-50th International Conference on Very Large Data Bases (VLDB), 2024.
+[*AAA: an Adaptive Mechanism for Locally Differential Private Mean Estimation.*](https://arxiv.org/ftp/arxiv/papers/2404/2404.01625.pdf)\
+50th International Conference on Very Large Data Bases (VLDB), 2024, to appear.
 
 5. **Ergute Bao**, Dawei Gao, Xiaokui Xiao, Yaliang Li.\
 [*Communication Efficient and Differentially Private Logistic Regression under the Distributed Setting.*](https://dl.acm.org/doi/10.1145/3580305.3599279)\
