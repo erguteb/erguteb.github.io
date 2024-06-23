@@ -44,8 +44,7 @@ The 29th ACM Conference on Computer and Communications Security (CCS), 2022.
 
 1. **Ergute Bao**, Xiaokui Xiao, Jun Zhao, Dongping Zhang, Bolin Ding.\
 [*Synthetic Data Generation with Differential Privacy via Bayesian Networks.*](https://journalprivacyconfidentiality.org/index.php/jpc/article/download/776/723)\
-Journal of Privacy and Confidentiality (JPC), 2021, Vol. 11 No. 3. \
-Invited paper. Based on our solution for the [2018 NIST Differential Privacy Synthetic Data Challenge](https://www.nist.gov/ctl/pscr/team-privbayes).
+Journal of Privacy and Confidentiality (JPC), 2021, Vol. 11 No. 3. Invited paper. Based on our solution for the [2018 NIST Differential Privacy Synthetic Data Challenge](https://www.nist.gov/ctl/pscr/team-privbayes).
 
 
 Services
