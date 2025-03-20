@@ -61,7 +61,7 @@ header h1 {
 
 .image-content {
     flex: 1;
-    text-align: right;
+    text-align: left;
 }
 
 .profile-pic {
@@ -71,7 +71,7 @@ header h1 {
 
 .profile-link {
     margin-top: 5px;
-    text-align: center;
+    text-align: left;
 }
 
 .profile-link a {
@@ -93,7 +93,7 @@ header h1 {
     margin-bottom: 15px;
 }
 
-.pub-title, .award-title {
+.pub-title {
     display: block;
     font-weight: bold;
     margin-bottom: 3px;
@@ -108,18 +108,32 @@ header h1 {
     text-decoration: underline;
 }
 
-.pub-authors, .award-org {
+.pub-authors, .pub-journal, .pub-note, .award-org {
     display: block;
-    font-style: italic;
     margin-bottom: 3px;
 }
 
-.pub-journal {
-    display: block;
+.pub-authors {
+    font-style: normal;
 }
 
-.award-desc {
-    margin-top: 3px;
+.pub-journal {
+    font-style: normal;
+}
+
+.pub-note {
+    font-style: italic;
+    color: #555;
+}
+
+.award-title {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+.award-org {
+    font-style: normal;
 }
 
 /* Footer styles */
