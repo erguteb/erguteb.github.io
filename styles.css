@@ -43,7 +43,6 @@ header h1 {
     font-size: 1rem;
     margin-bottom: 15px;
     font-weight: bold;
-    border-bottom: 1px solid #ddd;
     padding-bottom: 5px;
 }
 
@@ -111,13 +110,9 @@ header h1 {
     display: inline;
 }
 
-#publications p, #awards p {
+#publications p, #awards p, #services p {
     margin-bottom: 10px;
     padding-bottom: 10px;
-}
-
-#publications p:not(:last-child), #awards p:not(:last-child) {
-    border-bottom: 1px solid #eee;
 }
 
 .award-title {
