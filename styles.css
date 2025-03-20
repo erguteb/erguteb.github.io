@@ -22,7 +22,6 @@ body {
 /* Header styles */
 header {
     margin-bottom: 20px;
-    border-bottom: 1px solid #ddd;
     padding-bottom: 10px;
 }
 
@@ -126,7 +125,6 @@ header h1 {
 /* Footer styles */
 footer {
     margin-top: 30px;
-    border-top: 1px solid #ddd;
     padding-top: 10px;
     font-size: 0.9rem;
 }
