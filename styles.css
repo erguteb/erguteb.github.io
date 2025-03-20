@@ -1,0 +1,206 @@
+/* Base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    color: #333;
+    background-color: #fff;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.container {
+    width: 100%;
+}
+
+/* Header styles */
+header {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+
+header h1 {
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+/* Section styles */
+.section {
+    margin-bottom: 30px;
+}
+
+.section h2 {
+    color: #333;
+    font-size: 1.3rem;
+    margin-bottom: 15px;
+    font-weight: bold;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+}
+
+/* Bio section with image */
+.content-wrapper {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+.text-content {
+    flex: 2;
+}
+
+.image-content {
+    flex: 1;
+    text-align: right;
+}
+
+.profile-pic {
+    max-width: 200px;
+    border: 1px solid #ddd;
+}
+
+/* Publications styles */
+.publication-list, .awards-list {
+    list-style-type: none;
+}
+
+.publication-list li, .awards-list li {
+    margin-bottom: 15px;
+}
+
+.pub-title, .award-title {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+.pub-authors, .award-org {
+    display: block;
+    font-style: italic;
+    margin-bottom: 3px;
+}
+
+.pub-journal {
+    display: block;
+}
+
+.award-desc {
+    margin-top: 3px;
+}
+
+/* Footer styles */
+footer {
+    margin-top: 30px;
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+    font-size: 0.9rem;
+}
+
+footer a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .content-wrapper {
+        flex-direction: column;
+    }
+    
+    .image-content {
+        text-align: center;
+        margin-top: 20px;
+    }
+}
+
+/* Contact info in header */
+header .contact-info {
+    font-size: 0.9rem;
+    color: #555;
+    margin-top: 5px;
+}
+
+/* Education section */
+.education-list {
+    list-style-type: none;
+}
+
+.education-list li {
+    margin-bottom: 20px;
+}
+
+.degree {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+.institution {
+    display: block;
+    font-style: italic;
+}
+
+.year {
+    float: right;
+    font-style: italic;
+}
+
+.thesis, .advisor, .stream, .gpa {
+    margin-top: 3px;
+}
+
+/* Experience section */
+.experience-list {
+    list-style-type: none;
+}
+
+.experience-list li {
+    margin-bottom: 20px;
+}
+
+.position {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+.company {
+    display: block;
+    font-style: italic;
+}
+
+.period {
+    float: right;
+    font-style: italic;
+}
+
+.project, .hosts, .advisor {
+    margin-top: 3px;
+}
+
+/* Publications and manuscripts */
+.pub-note {
+    display: block;
+    font-style: italic;
+    margin-top: 3px;
+    color: #555;
+}
+
+/* Services section */
+#services p {
+    margin-bottom: 10px;
+}
