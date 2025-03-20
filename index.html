@@ -4,88 +4,87 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ergute Bao</title>
-    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            line-height: 1.5;
+            color: #000;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 1.5rem;
+            margin-bottom: 5px;
+        }
+        h2 {
+            font-size: 1.2rem;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        a {
+            color: #000;
+        }
+        img {
+            max-width: 200px;
+            margin-bottom: 10px;
+        }
+    </style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>Ergute Bao (Bob)</h1>
-            <div class="image-content" style="text-align: left;">
-                <a href="images/secondary-profile.jpg" target="_blank">
-                    <img src="images/profile.jpg" alt="Profile Picture" class="profile-pic">
-                </a>
-                <div class="profile-link" style="text-align: left;">
-                    <a href="images/secondary-profile.jpg" target="_blank">A clearer and better photo</a>
-                </div>
-            </div>
-        </header>
-        
-        <main>
-            <section id="bio" class="section">
-                <div class="content-wrapper">
-                    <div class="text-content">
-                        <p>I work on privacy-preserving machine learning. I obtained my PhD from National University of Singapore, supervised by Xiaokui Xiao, and BSc from the Chinese University of Hong Kong.</p>
-                    </div>
-                </div>
-            </section>
-
-            
-            <section id="publications" class="section">
-                <p><strong>Publications:</strong></p>
-                <p><span class="pub-title"><a href="files/p1843-wei.pdf" target="_blank">AAA: an Adaptive Mechanism for Locally Differential Private Mean Estimation</a></span><br>
-                <span class="pub-authors">Fei Wei, <em>E. Bao</em>, Xiaokui Xiao, Yin Yang, and Bolin Ding</span><br>
-                <span class="pub-journal">Proceedings of the VLDB Endowment (PVLDB), 2024.</span></p>
-                
-                <p><span class="pub-title"><a href="files/Communication_Efficient_and_Differentially_Private_Logistic_Regression_under_the_Distributed_Setting.pdf" target="_blank">Communication Efficient and Differentially Private Logistic Regression under the Distributed Setting</a></span><br>
-                <span class="pub-authors"><em>E. Bao</em>, Dawei Gao, Xiaokui Xiao, and Yaliang Li</span><br>
-                <span class="pub-journal">Proceedings of the SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023.</span></p>
-                
-                <p><span class="pub-title"><a href="files/p2482-ergute.pdf" target="_blank">Skellam Mixture Mechanism: a Novel Approach to Federated Learning with Differential Privacy</a></span><br>
-                <span class="pub-authors"><em>E. Bao</em>, Yizheng Zhu, Xiaokui Xiao, Yin Yang, Beng Chin Ooi, Benjamin H.M. Tan, and Khin M.M. Aung</span><br>
-                <span class="pub-journal">Proceedings of the VLDB Endowment (PVLDB), 2022.</span></p>
-                
-                <p><span class="pub-title"><a href="files/DPIS_CCS.pdf" target="_blank">DPIS: an Enhanced Mechanism for Differentially Private SGD with Importance Sampling</a></span><br>
-                <span class="pub-authors">Jianxin Wei, <em>E. Bao</em>, Xiaokui Xiao, and Yin Yang</span><br>
-                <span class="pub-journal">Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS), 2022.</span></p>
-                
-                <p><span class="pub-title"><a href="files/p2258-bao-technical.pdf" target="_blank">CGM: An Enhanced Mechanism for Streaming Data Collection with Local Differential Privacy</a></span><br>
-                <span class="pub-authors"><em>E. Bao</em>, Yin Yang, Xiaokui Xiao, and Bolin Ding</span><br>
-                <span class="pub-journal">Proceedings of the VLDB Endowment (PVLDB), 2021.</span></p>
-                
-                <p><span class="pub-title"><a href="files/jpc.pdf" target="_blank">Synthetic Data Generation with Differential Privacy via Bayesian Networks</a></span><br>
-                <span class="pub-authors"><em>E. Bao</em>, Xiaokui Xiao, Jun Zhao, Dongping Zhang, and Bolin Ding</span><br>
-                <span class="pub-journal">Journal of Privacy and Confidentiality (JPC), 2021, 11(3). Invited paper, based on our solution for 2018 NIST DP challenge.</span><br>
-            </section>
-            
-            
-            <section id="awards" class="section">
-                <p><strong>Awards:</strong></p>
-                <p><span class="award-title"><a href="https://www.nist.gov/ctl/pscr/team-privbayes" target="_blank">Third place in the 2018 Differential Privacy Synthetic Data Challenge</a></span><br>
-                <span class="award-org">National Institute of Standards and Technology (NIST)</span></p>
-                
-                <p><span class="award-title"><a href="https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2020-differential" target="_blank">First place in the 2020 Privacy Temporal Map Challenge</a></span><br>
-                <span class="award-org">National Institute of Standards and Technology (NIST)</span></p>
-                
-                <p><span class="award-title">Dean's Graduate Research Excellence Award 2023, Research Achievement Award 2021 & 2022</span><br>
-                <span class="award-org">NUS School of Computing</span></p>
-            </section>
-            
-            <section id="services" class="section">
-                <p><strong>Services:</strong></p>
-                <p><span class="service-title">Conference reviewer in:</span> International Conference on Very Large Data Bases (VLDB) 2026, International Conference on Machine Learning (ICML) 2022, International Conference on Database Systems for Advanced Applications (DASFAA) 2023-24 (Demo track).</p>
-                
-                <p><span class="service-title">Journal reviewer in:</span> IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Privacy (ToP), Springer International Journal of Information Security (IJIS).</p>
-            </section>
-            
-            <section id="contact" class="section">
-                <p><strong>Contact:</strong></p>
-                <p>Email: baoergute8@gmail.com</p>
-            </section>
-        </main>
-        
-        <footer>
-            <p>Last updated: March 2025</p>
-        </footer>
-    </div>
+    <h1>Ergute Bao (Bob)</h1>
+    
+    <img src="images/profile.jpg" alt="Profile Picture">
+    <p><a href="images/secondary-profile.jpg">A clearer and better photo</a></p>
+    
+    <p>I work on privacy-preserving machine learning. I obtained my PhD from National University of Singapore, supervised by Xiaokui Xiao, and BSc from the Chinese University of Hong Kong.</p>
+    
+    <h2>Publications:</h2>
+    <p><b>AAA: an Adaptive Mechanism for Locally Differential Private Mean Estimation</b><br>
+    Fei Wei, <i>E. Bao</i>, Xiaokui Xiao, Yin Yang, and Bolin Ding<br>
+    Proceedings of the VLDB Endowment (PVLDB), 2024.</p>
+    
+    <p><b>Communication Efficient and Differentially Private Logistic Regression under the Distributed Setting</b><br>
+    <i>E. Bao</i>, Dawei Gao, Xiaokui Xiao, and Yaliang Li<br>
+    Proceedings of the SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023.</p>
+    
+    <p><b>Skellam Mixture Mechanism: a Novel Approach to Federated Learning with Differential Privacy</b><br>
+    <i>E. Bao</i>, Yizheng Zhu, Xiaokui Xiao, Yin Yang, Beng Chin Ooi, Benjamin H.M. Tan, and Khin M.M. Aung<br>
+    Proceedings of the VLDB Endowment (PVLDB), 2022.</p>
+    
+    <p><b>DPIS: an Enhanced Mechanism for Differentially Private SGD with Importance Sampling</b><br>
+    Jianxin Wei, <i>E. Bao</i>, Xiaokui Xiao, and Yin Yang<br>
+    Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS), 2022.</p>
+    
+    <p><b>CGM: An Enhanced Mechanism for Streaming Data Collection with Local Differential Privacy</b><br>
+    <i>E. Bao</i>, Yin Yang, Xiaokui Xiao, and Bolin Ding<br>
+    Proceedings of the VLDB Endowment (PVLDB), 2021.</p>
+    
+    <p><b>Synthetic Data Generation with Differential Privacy via Bayesian Networks</b><br>
+    <i>E. Bao</i>, Xiaokui Xiao, Jun Zhao, Dongping Zhang, and Bolin Ding<br>
+    Journal of Privacy and Confidentiality (JPC), 2021, 11(3). Invited paper, based on our solution for 2018 NIST DP challenge.</p>
+    
+    <h2>Awards:</h2>
+    <p>Third place in the 2018 Differential Privacy Synthetic Data Challenge<br>
+    National Institute of Standards and Technology (NIST)</p>
+    
+    <p>First place in the 2020 Privacy Temporal Map Challenge<br>
+    National Institute of Standards and Technology (NIST)</p>
+    
+    <p>Dean's Graduate Research Excellence Award 2023, Research Achievement Award 2021 & 2022<br>
+    NUS School of Computing</p>
+    
+    <h2>Services:</h2>
+    <p>Conference reviewer in: International Conference on Very Large Data Bases (VLDB) 2026, International Conference on Machine Learning (ICML) 2022, International Conference on Database Systems for Advanced Applications (DASFAA) 2023-24 (Demo track).</p>
+    
+    <p>Journal reviewer in: IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Privacy (ToP), Springer International Journal of Information Security (IJIS).</p>
+    
+    <h2>Contact:</h2>
+    <p>Email: baoergute8@gmail.com</p>
+    
+    <p>Last updated: March 2025</p>
 </body>
 </html>
