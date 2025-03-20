@@ -233,4 +233,14 @@ header .contact-info {
 /* Services section */
 #services p {
     margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+#services p:not(:last-child) {
+    border-bottom: 1px solid #eee;
+}
+
+.service-title {
+    font-weight: normal;
+    display: inline;
 }
